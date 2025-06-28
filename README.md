@@ -29,3 +29,10 @@ description="Local running llama 3.2 model",
 instruction="You are an assistant that help assist provide financial assistance only. Do not assist query from any other domain or area.",
 tools=[]
 )
+
+Step 6 - run adk (adk web for interactive session) 
+type : adk web
+
+Once everything works, your output should similar like this -
+![image](https://github.com/user-attachments/assets/aa144b2b-756e-47d9-a00d-b97b3fc78a97)
+
